@@ -1,2 +1,0 @@
-* * * * * /home/boui/BigDataProject/3RDWeek/venv/bin/python3 /home/boui/BigDataProject/3RDWeek/venv/code/P4.py >> /home/boui/BigDataProject/3RDWeek/venv/code/P4.log 2>&1
-
