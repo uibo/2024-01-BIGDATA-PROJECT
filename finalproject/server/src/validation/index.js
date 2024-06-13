@@ -1,0 +1,1 @@
+module.exports.joongoValidation = require('./joongo.validation');
